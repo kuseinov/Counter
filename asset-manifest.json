@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kuseinov/Counter/static/css/main.e6c13ad2.css",
+    "main.js": "/kuseinov/Counter/static/js/main.72de3ce0.js",
+    "index.html": "/kuseinov/Counter/index.html",
+    "main.e6c13ad2.css.map": "/kuseinov/Counter/static/css/main.e6c13ad2.css.map",
+    "main.72de3ce0.js.map": "/kuseinov/Counter/static/js/main.72de3ce0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.72de3ce0.js"
+  ]
+}
